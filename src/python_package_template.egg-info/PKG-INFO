@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: python-package-template
+Version: 0.0.1
+Summary: Python Project Template
+Home-page: https://github.com/takecloud-dev/python_package_template
+Author: takecloud-dev
+Author-email: informatique@takecloud.fr
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# python_package_template
+Template for Python package
+
+

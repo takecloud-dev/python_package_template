@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/example_package/__init__.py
+src/example_package/example.py
+src/python_package_template.egg-info/PKG-INFO
+src/python_package_template.egg-info/SOURCES.txt
+src/python_package_template.egg-info/dependency_links.txt
+src/python_package_template.egg-info/requires.txt
+src/python_package_template.egg-info/top_level.txt
